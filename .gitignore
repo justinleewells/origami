@@ -1,0 +1,11 @@
+vcpkg_installed
+vcpkg-manifest-install.log
+CMakeCache.txt
+CMakeFiles
+CMakeUserPresets.json
+*.cmake
+Makefile
+Testing
+bin
+lib
+*.a
