@@ -1,0 +1,4 @@
+origami provides CMake targets:
+
+find_package(core CONFIG REQUIRED)
+target_link_libraries(main PRIVATE origami::core)

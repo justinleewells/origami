@@ -1,8 +1,18 @@
 {
   "name": "origami",
   "version": "0.0.1",
+  "description": "A lightweight, modular C++ game engine",
+  "homepage": "https://github.com/justinleewells/origami",
+  "license": "MIT",
   "dependencies": [
-    "sdl3",
-    "gtest"
+    "gtest",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
   ]
 }
