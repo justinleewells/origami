@@ -1,5 +1,5 @@
 # origami
-`origami` is a lightweight, modular game engine built on top of SDL3.
+`origami` is a lightweight, modular C++ game engine built on top of SDL3.
 
 # Instructions
 
